@@ -34,6 +34,7 @@ function sortArray(array) {
 }
 
 // 8) Function to capitalize the first letter of a string
+//function capitalizeFirstLetter(str) {
 function capitalizeFirstLetter(str) {
     if (str.length === 0) {
         return str;
